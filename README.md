@@ -4,16 +4,15 @@ You can use the [editor on GitHub](https://github.com/hmmolaie/HANA/edit/master/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### HANA
 
-HANA is light os image for make your raspberry pi to be a thin client.
+HANA is a lite os image for make your raspberry pi to be a thin client.
 
-```markdown
-Syntax highlighted code block
+```Hana support
 
-# Header 1
-## Header 2
-### Header 3
+# RDP
+## Spice
+### Ovirt
 
 - Bulleted
 - List
