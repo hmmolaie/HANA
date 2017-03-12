@@ -1,7 +1,7 @@
 ## Welcome to HANA
 
 
-### HANA is a lite os image for make your raspberry pi to be a thin client.
+### HANA is a light os image for make your raspberry pi to be a thin client.
 
 Hana now support (protocols):
 
