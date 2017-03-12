@@ -14,4 +14,4 @@ And vdi solution:
   copy image file to your SD card with application (like dd in linux or [win32 disk imager](https://sourceforge.net/projects/win32diskimager/) for windows)
 
 ## Configuration
-  when welcome page appred press END key for setting default password is "vdi"
+  when welcome page appred, press "END" key for setting... default password is "vdi"
