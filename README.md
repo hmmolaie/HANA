@@ -16,9 +16,4 @@ And vdi solution:
 ### Configuration
   when welcome page appred, press "END" key for setting... default password is "vdi"
 
-<script src="paypal-button.min.js?merchant=YOUR_MERCHANT_ID"
-    data-button="donate"
-    data-name="My product"
-    data-amount="1.00"
-    async
-></script>
+
