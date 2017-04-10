@@ -11,8 +11,8 @@ And vdi solution:
 - [oVirt](https://www.ovirt.org/)
 
 ### Requirements
-  -Raspberrypi 2 or later
-  -32GB microSD card minimum
+  Raspberrypi 2 or later
+  32GB microSD card minimum
 ### Download
   you can download image from [here](https://www.dropbox.com/s/3pyrek6bo5dg0po/HANA4Raspberrypi.zip?dl=0) 
 ### Installation
