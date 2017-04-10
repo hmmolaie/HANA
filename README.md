@@ -11,13 +11,12 @@ And vdi solution:
 - [oVirt](https://www.ovirt.org/)
 
 ### Requirements
-  Raspberrypi 2 or later
-  32GB microSD card minimum
+  Raspberrypi 2 or later with 32GB microSD card minimum.
 ### Download
-  you can download image from [here](https://www.dropbox.com/s/3pyrek6bo5dg0po/HANA4Raspberrypi.zip?dl=0) 
+  you can download image from [here](https://www.dropbox.com/s/3pyrek6bo5dg0po/HANA4Raspberrypi.zip?dl=0).
 ### Installation
- copy image file to your SD card with application (like dd in linux or [win32 disk imager](https://sourceforge.net/projects/win32diskimager/) for windows)
+ copy image file to your SD card with raw disk image writer.(like dd in linux or [win32 disk imager](https://sourceforge.net/projects/win32diskimager/) for windows)
 ### Configuration
-  when welcome page appeared, press "END" key for setting... default password is "vdi"
+  when welcome page appeared, press "END" key for setting... default password is "vdi".
 
 
